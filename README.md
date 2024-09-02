@@ -10,7 +10,7 @@ This repository contains the design and verification of a 16x8 FIFO (First-In-Fi
 
 
 ## Overview
-The 16x8 FIFO module is designed to manage data storage and retrieval in a synchronized manner, ensuring that data is read in the order it was written. This project also includes a verification environment to validate the FIFO design, checking its functionality under various scenarios.
+The 16x8 FIFO module is designed to manage data storage and retrieval in a synchronized manner, ensuring that data is read in the order it was written. This project also includes a verification environment to validate the FIFO design, checking its functionality under various scenarios. EDA Playground link https://www.edaplayground.com/x/ALjD
 
 ## Design Details
 ### FIFO Module
