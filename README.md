@@ -42,4 +42,11 @@ The testbench is written using SystemVerilog and includes:
 - **Scoreboard:** Checks the correctness of the FIFO operation by comparing expected and actual outputs.
 - **Environment:** Integrates all the components of the verification environment.
 
+16x8-fifo/
+│
+├── src/
+│   ├── design.sv         # FIFO design code
+│   └── testbench.sv      # FIFO testbench
+│
+└── README.md             # Project documentation
 
