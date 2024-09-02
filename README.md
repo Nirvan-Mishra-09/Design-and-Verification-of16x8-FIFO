@@ -7,7 +7,7 @@ This repository contains the design and verification of a 16x8 FIFO (First-In-Fi
 - [Design Details](#design-details)
 - [Testbench](#testbench)
 - [Waveform](#Waveform)
-- [Directory Structure](#directory-structure)
+
 
 
 ## Overview
