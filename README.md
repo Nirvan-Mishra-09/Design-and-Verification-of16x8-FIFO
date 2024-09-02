@@ -9,7 +9,6 @@ This repository contains the design and verification of a 16x8 FIFO (First-In-Fi
 - [Waveform](#Waveform)
 
 
-
 ## Overview
 The 16x8 FIFO module is designed to manage data storage and retrieval in a synchronized manner, ensuring that data is read in the order it was written. This project also includes a verification environment to validate the FIFO design, checking its functionality under various scenarios.
 
@@ -42,11 +41,7 @@ The testbench is written using SystemVerilog and includes:
 - **Scoreboard:** Checks the correctness of the FIFO operation by comparing expected and actual outputs.
 - **Environment:** Integrates all the components of the verification environment.
 
-16x8-fifo/
-│
-├── src/
-│   ├── design.sv         # FIFO design code
-│   └── testbench.sv      # FIFO testbench
-│
-└── README.md             # Project documentation
+
+## Waveform
+![image](https://github.com/user-attachments/assets/1e3bda6f-484f-4a34-aca0-d218336b9d00)
 
